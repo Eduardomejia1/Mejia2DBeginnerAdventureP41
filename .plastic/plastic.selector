@@ -1,0 +1,3 @@
+repository "Mejia2DBeginnerAdventureP41/Mejia2DBeginnerAdventureP41@1375858019955@cloud"
+  path "/"
+    smartbranch "/main"
