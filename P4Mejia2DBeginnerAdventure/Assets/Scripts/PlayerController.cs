@@ -26,7 +26,6 @@ public class PlayerController : MonoBehaviour
         {
             horizontal = 1.0f;
         }
-
         Debug.Log(horizontal);
 
 
